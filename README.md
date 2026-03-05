@@ -40,7 +40,7 @@ A domain controller was configured using Windows Server 2022. A Windows 10 clien
 ![Domain Join](Screenshots/07-Domain-Join-Process.png)
 
 ### Domain Authentication Verification
-![Whoami](Screenshots/08-Domain-Authentication-Whoami.png)
+![Whoami](Screenshots/08-Domain-Authentication-whoami.png)
 
 ### Active Directory Users and Computers – Domain View
 ![ADUC Domain](Screenshots/09-ADUC-Opened-Domain.png)
